@@ -29,3 +29,20 @@
     At the end, results are compared on the basis of different evaluation metrics. 
   
   
+  ## Credit Card Fraud Detection
+  
+  The size of the creditcard dataset is increased using SMOTE oversampling and 100% accuracy is achieved using RandomForestClassifier and 95% with logistic Regression.
+  
+  The dataset can be downloaded using the following link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/download?datasetVersionNumber=3
+  
+  
+  ## Diabetes Prediction using AutoML
+  
+  An example of how AutoML feature may be used to determine the best pipeline and algorithm for any classification Task.
+  
+  
+  ## Association Mining on Online Retail Dataset
+  
+  Association mining is usually used to determine the association rules for items that are often bought together. It is used in marketing industry to determine which     items to be kept side by side in shops/malls.
+
+  
