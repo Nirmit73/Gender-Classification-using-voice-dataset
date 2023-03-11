@@ -36,6 +36,11 @@
   The dataset can be downloaded using the following link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/download?datasetVersionNumber=3
   
   
+  ## Heart Disease Prediction
+  
+  Following Exploratory Data Analysis of the dataset, Feature pipeline is applied to remove highly correlated features, constant/duplicate features and finally the       best hyperparameters are determined using GridSearch method to get the best accuracy.
+  
+  
   ## Diabetes Prediction using AutoML
   
   An example of how AutoML feature may be used to determine the best pipeline and algorithm for any classification Task.
